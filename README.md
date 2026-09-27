@@ -13,6 +13,8 @@ This build fixes compatibility with Samsung devices and adds a custom dark-backg
 [![Min SDK](https://img.shields.io/badge/minSdk-30%20(Android%2011)-3DDC84)](#getting-started)
 [![Target SDK](https://img.shields.io/badge/targetSdk-36%20(Android%2016)-3DDC84)](#getting-started)
 [![Version](https://img.shields.io/badge/version-17.0.0%20(17000000)-blue)](#whats-changed-in-this-build)
+[![Release](https://img.shields.io/github/v/release/Mahmudul-Hasan-Shawon/Coloros-Calculator)](#download)
+[![Downloads](https://img.shields.io/github/downloads/Mahmudul-Hasan-Shawon/Coloros-Calculator/total)](#download)
 [![APK Size](https://img.shields.io/badge/APK-16.5%20MB-orange)](#inside-the-apk)
 [![Language](https://img.shields.io/badge/language-Kotlin%20%2F%20Java-7F52FF?logo=kotlin&logoColor=white)](#tech-stack)
 
@@ -181,6 +183,15 @@ Calculator.apk                         16.5 MB, ~8,900 classes across 2 dex file
 
 - An Android device or emulator running **Android 11 (API 30) or newer**
 - [ADB](https://developer.android.com/tools/adb) (part of Android platform-tools) for installation
+
+### Download
+
+Grab the signed APK from the [releases page](https://github.com/Mahmudul-Hasan-Shawon/Coloros-Calculator/releases/latest),
+or directly: [Calculator.apk (v17.0.0)](https://github.com/Mahmudul-Hasan-Shawon/Coloros-Calculator/releases/latest/download/Calculator.apk).
+
+| Release | APK size | SHA-256 |
+|---------|----------|---------|
+| [v17.0.0](https://github.com/Mahmudul-Hasan-Shawon/Coloros-Calculator/releases/tag/v17.0.0) | 16.5 MB | `4c3030b9f26902b66ec1bf324190e8dd0d42b133485667b4f63f6646c2d524c3` |
 
 ### Install
 
